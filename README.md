@@ -4,6 +4,8 @@
 
 A framework for analyzing Kalshi prediction market data. Includes tools for data collection, storage, and running analysis scripts that generate figures and statistics.
 
+The dataset was acquired from Kalshi's public REST API, and spans from 16:09 ET 2021-06-30 to 17:00 ET 2025-11-25. All market and trade data during this period is included.
+
 ## Setup
 
 Requires Python 3.9+. Install dependencies with [uv](https://github.com/astral-sh/uv):
