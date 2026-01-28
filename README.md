@@ -10,6 +10,8 @@ The dataset was acquired from Kalshi's public REST API, and spans from 16:09 ET 
 
 Requires Python 3.9+. Install dependencies with [uv](https://github.com/astral-sh/uv):
 
+Video link: (https://www.youtube.com/watch?v=vT0qMNgOkxo)
+
 ```bash
 uv sync
 ```
